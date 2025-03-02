@@ -1,0 +1,3 @@
+setenv bootargs "console=ttyS0,115200,n8 ip=10.4.1.2 root=/dev/nfs rw rootfstype=nfs nfsroot=10.4.1.1:/home/vick/lab/rootfs,nfsvers=3,tcp rootwait"
+
+setenv bootcmd "fatload mmc 0:1 0x80F80000 am335x-boneblack.dtb;fatload mmc 0:1 0x80007FC0 zImage;bootz 0x80007FC0 - 0x80F80000"

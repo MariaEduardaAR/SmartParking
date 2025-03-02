@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "fcntl.h": "c",
+        "lcd1602c": "cpp",
+        "i2c-dev.h": "c",
+        "main.h": "c"
+    }
+}

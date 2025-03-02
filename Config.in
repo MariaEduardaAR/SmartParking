@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PROJETO
+    bool "projeto"
+    help
+        Aplicativo projeto.
