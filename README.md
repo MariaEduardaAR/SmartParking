@@ -5,4 +5,4 @@ Sistema de estacionamento automatizado com sistema web integrado.
 
 | Projeto                          | 
 |----------------------------------|
-| ![Protótipo](/home/vick/lab/buildroot/package/projeto/videoProjeto.gif) | 
+| ![Protótipo](videoProjeto.gif) | 
